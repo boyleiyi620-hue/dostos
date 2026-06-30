@@ -1,0 +1,28 @@
+{
+  "name": "DostOS – Planla, Paylaş, Yaşa.",
+  "short_name": "DostOS",
+  "description": "Arkadaş grubu yönetim uygulaması",
+  "start_url": "/dostos/",
+  "scope": "/dostos/",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#f97316",
+  "orientation": "portrait-primary",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["social", "lifestyle", "utilities"]
+}
